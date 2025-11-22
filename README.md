@@ -55,3 +55,17 @@ Zaprojektowanie logicznego podziału z wykorzystaniem najlepszych praktyk AD.
 -Centralne zarządzanie konfiguracją stacji roboczych.
 
 -Podział użytkowników na role zgodne z dobrymi praktykami IT.
+
+Efekt końcowy
+
+-Projekt dostarczył w pełni funkcjonalne, bezpieczne i logicznie zaprojektowane środowisko Windows Server, obejmujące:
+
+-działający kontroler domeny,
+
+-strukturę AD z użytkownikami i grupami,
+
+-zestaw precyzyjnie przygotowanych GPO,
+
+-stacje robocze działające w domenie,
+
+-kontrolowane uprawnienia i ograniczenia zabezpieczające.
